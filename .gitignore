@@ -1,0 +1,5 @@
+# Ignore virtual environment and Python junk files
+venv/
+__pycache__/
+*.pyc
+.DS_Store
