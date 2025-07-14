@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a Streamlit web application designed to automate the extraction and comparison of structured parameters from multiple documents. Users can upload two or more documents in various formats, and the tool extracts key parameters using natural language processing (NLP) and regex techniques. It then compares these parameters side-by-side, highlighting matches and mismatches with confidence scores.
+This project is a part of the competition conducted by stellantis, In this project we automated the extraction and comparison of structured parameters from multiple documents. Users can upload two or more documents in various formats, and the tool extracts key parameters using natural language processing (NLP) and regex techniques. It then compares these parameters side-by-side, highlighting matches and mismatches with confidence scores.
 
 ## Features
 
